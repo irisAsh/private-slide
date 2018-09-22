@@ -17,7 +17,7 @@ docker に `npm`, `vue-cli` 入れて init しただけ。
 
 ---
 
-![alt](assets/shinjuku-mokumoku/15_vue_test.gif =100x100)
+<img src="assets/shinjuku-mokumoku/15_vue_test.gif" width="320px">
 
 ---
 
