@@ -17,6 +17,8 @@ docker に `npm`, `vue-cli` 入れて init しただけ。
 
 ---
 
+![alt](assets/shinjuku-mokumoku/15_vue_test.gif)
+
 ---
 
 ## 感想
